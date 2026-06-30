@@ -1,6 +1,4 @@
-# 🧩 LeetCode Solutions in Java
-
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Shakti_kourav&theme=Dark)
+# 🧩 LeetCode-Java
 
 This repository contains my accepted **LeetCode** solutions written in **Java**.
 
