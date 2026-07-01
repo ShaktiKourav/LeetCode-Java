@@ -89,4 +89,12 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
