@@ -64,8 +64,29 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2574-left-and-right-sum-differences) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2574-left-and-right-sum-differences) |
+## Binary Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
