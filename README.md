@@ -97,6 +97,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0367-valid-perfect-square) |
