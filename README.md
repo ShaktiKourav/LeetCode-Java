@@ -64,6 +64,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -77,6 +78,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
