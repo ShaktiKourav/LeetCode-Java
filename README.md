@@ -114,6 +114,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0342-power-of-four](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0367-valid-perfect-square) |
 | [0504-base-7](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0504-base-7) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
