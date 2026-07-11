@@ -101,11 +101,13 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 ## Breadth-First Search
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
@@ -139,6 +141,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 ## Graph Theory
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Shortest Path
@@ -153,4 +156,8 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0004-median-of-two-sorted-arrays) |
+## Depth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
