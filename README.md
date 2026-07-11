@@ -75,6 +75,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0540-single-element-in-a-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1288-remove-covered-intervals](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1288-remove-covered-intervals) |
 | [2574-left-and-right-sum-differences](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -97,6 +98,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0162-find-peak-element](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0540-single-element-in-a-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Breadth-First Search
