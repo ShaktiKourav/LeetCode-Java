@@ -167,4 +167,8 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2685-count-the-number-of-complete-components) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
