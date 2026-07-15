@@ -70,6 +70,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | ------- |
 | [0001-two-sum](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0035-search-insert-position) |
@@ -188,6 +189,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0011-container-with-most-water) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
@@ -197,6 +199,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0011-container-with-most-water) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Number Theory
 |  |
