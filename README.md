@@ -140,6 +140,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | ------- |
 | [0069-sqrtx](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0263-ugly-number) |
+| [0319-bulb-switcher](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0367-valid-perfect-square) |
@@ -207,4 +208,8 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
