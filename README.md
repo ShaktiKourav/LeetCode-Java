@@ -139,6 +139,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0326-power-of-three) |
@@ -198,6 +199,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0509-fibonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -218,5 +220,6 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
