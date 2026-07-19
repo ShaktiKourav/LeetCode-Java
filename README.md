@@ -50,6 +50,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | ------- |
 | [0001-two-sum](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -77,6 +78,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0169-majority-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0875-koko-eating-bananas) |
@@ -180,6 +182,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0169-majority-element) |
 | [1288-remove-covered-intervals](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -187,6 +190,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0169-majority-element) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -231,4 +235,8 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0374-guess-number-higher-or-lower) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
