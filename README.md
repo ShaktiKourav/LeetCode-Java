@@ -65,6 +65,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Array
@@ -80,6 +81,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -98,6 +100,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2574-left-and-right-sum-differences) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
@@ -111,6 +114,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0540-single-element-in-a-sorted-array) |
