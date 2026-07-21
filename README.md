@@ -60,6 +60,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0504-base-7](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0504-base-7) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -205,6 +206,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Two Pointers
 |  |
 | ------- |
