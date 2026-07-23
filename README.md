@@ -99,6 +99,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -214,6 +215,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0011-container-with-most-water) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
