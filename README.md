@@ -152,6 +152,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0263-ugly-number) |
