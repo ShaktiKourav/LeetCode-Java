@@ -11,7 +11,6 @@ class Solution {
             } else if (digit > max2) {
                 max2 = digit;
             }
-
             n /= 10;
         }
 
