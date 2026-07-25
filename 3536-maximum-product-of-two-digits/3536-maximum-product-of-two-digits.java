@@ -2,7 +2,6 @@ class Solution {
     public int maxProduct(int n) {
         int max1 = 0;
         int max2 = 0;
-
         while (n > 0) {
             int digit = n % 10;
 
