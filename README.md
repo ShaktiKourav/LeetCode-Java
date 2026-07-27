@@ -92,6 +92,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2574-left-and-right-sum-differences) |
@@ -143,6 +144,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
@@ -200,6 +202,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0628-maximum-product-of-three-numbers](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
