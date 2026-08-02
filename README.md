@@ -90,6 +90,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0643-maximum-average-subarray-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0989-add-to-array-form-of-integer) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1288-remove-covered-intervals) |
@@ -172,6 +173,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0507-perfect-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0989-add-to-array-form-of-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -238,6 +240,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | ------- |
 | [0070-climbing-stairs](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -273,4 +276,8 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0415-add-strings) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
