@@ -164,6 +164,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0069-sqrtx](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0342-power-of-four) |
@@ -258,6 +259,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0319-bulb-switcher) |
 ## Memoization
 |  |
@@ -279,5 +281,18 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
