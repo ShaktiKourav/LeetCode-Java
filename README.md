@@ -54,6 +54,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [1331-rank-transform-of-an-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3731-find-missing-elements](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3731-find-missing-elements) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Prefix Sum
 |  |
@@ -216,6 +218,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [1552-magnetic-force-between-two-balls](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1552-magnetic-force-between-two-balls) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
