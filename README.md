@@ -298,4 +298,8 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0292-nim-game) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
