@@ -162,6 +162,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0070-climbing-stairs) |
@@ -189,6 +190,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0509-fibonacci-number) |
@@ -304,4 +306,8 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
