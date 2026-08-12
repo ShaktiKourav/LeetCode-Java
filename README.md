@@ -60,6 +60,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0020-valid-parentheses) |
 | [0415-add-strings](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0504-base-7) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -320,4 +321,12 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0877-stone-game) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
