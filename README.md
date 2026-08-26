@@ -187,6 +187,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0507-perfect-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0628-maximum-product-of-three-numbers) |
+| [0866-prime-palindrome](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0989-add-to-array-form-of-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -274,6 +275,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 ## Number Theory
 |  |
 | ------- |
+| [0866-prime-palindrome](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0866-prime-palindrome) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -341,4 +343,8 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0014-longest-common-prefix) |
+## Primality Test
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0866-prime-palindrome) |
 <!---LeetCode Topics End-->
