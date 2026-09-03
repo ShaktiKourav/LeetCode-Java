@@ -53,6 +53,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0169-majority-element](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0268-missing-number) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1331-rank-transform-of-an-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -104,6 +105,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0875-koko-eating-bananas](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0989-add-to-array-form-of-integer) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1331-rank-transform-of-an-array) |
@@ -170,6 +172,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 ## Matrix
 |  |
 | ------- |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Math
@@ -307,6 +310,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0415-add-strings) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## Game Theory
 |  |
 | ------- |
