@@ -50,6 +50,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | ------- |
 | [0001-two-sum](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0268-missing-number) |
@@ -90,6 +91,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0033-search-in-rotated-sorted-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0041-first-missing-positive) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0162-find-peak-element) |
