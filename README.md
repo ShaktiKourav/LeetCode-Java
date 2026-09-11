@@ -58,6 +58,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [1331-rank-transform-of-an-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3731-find-missing-elements) |
 ## String
@@ -120,6 +121,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3731-find-missing-elements](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3731-find-missing-elements) |
@@ -215,6 +217,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0326-power-of-three](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -260,6 +263,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | ------- |
 | [1291-sequential-digits](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Two Pointers
 |  |
