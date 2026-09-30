@@ -215,6 +215,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0509-fibonacci-number) |
@@ -344,6 +345,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0206-reverse-linked-list) |
 ## Zero-Sum Game
 |  |
 | ------- |
