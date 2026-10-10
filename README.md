@@ -51,6 +51,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0001-two-sum](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0041-first-missing-positive) |
+| [0141-linked-list-cycle](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0268-missing-number) |
@@ -292,6 +293,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0031-next-permutation) |
+| [0141-linked-list-cycle](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0141-linked-list-cycle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -369,6 +371,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0206-reverse-linked-list) |
 ## Zero-Sum Game
@@ -430,4 +433,8 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0101-symmetric-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0145-binary-tree-postorder-traversal) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
