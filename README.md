@@ -275,6 +275,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0094-binary-tree-inorder-traversal](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [2685-count-the-number-of-complete-components](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
@@ -378,6 +379,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -416,10 +418,12 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0094-binary-tree-inorder-traversal](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
