@@ -180,6 +180,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -425,6 +426,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0101-symmetric-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
@@ -433,8 +435,21 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0101-symmetric-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0141-linked-list-cycle) |
+## Design
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
