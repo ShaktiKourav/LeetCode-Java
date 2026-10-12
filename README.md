@@ -113,6 +113,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0875-koko-eating-bananas](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0989-add-to-array-form-of-integer) |
+| [1046-last-stone-weight](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1207-unique-number-of-occurrences) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -181,6 +182,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
