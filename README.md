@@ -53,6 +53,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0041-first-missing-positive](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -103,6 +104,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0169-majority-element](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -258,6 +260,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0628-maximum-product-of-three-numbers) |
