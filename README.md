@@ -287,6 +287,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0938-range-sum-of-bst](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0938-range-sum-of-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2685-count-the-number-of-complete-components) |
@@ -437,6 +438,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0938-range-sum-of-bst) |
@@ -449,6 +451,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0938-range-sum-of-bst) |
@@ -463,6 +466,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 ## Binary Search Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0938-range-sum-of-bst) |
