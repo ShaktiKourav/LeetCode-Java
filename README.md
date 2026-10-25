@@ -290,6 +290,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0501-find-mode-in-binary-search-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0938-range-sum-of-bst](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
@@ -442,6 +443,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -455,6 +457,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -470,6 +473,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Data Stream
 |  |
 | ------- |
