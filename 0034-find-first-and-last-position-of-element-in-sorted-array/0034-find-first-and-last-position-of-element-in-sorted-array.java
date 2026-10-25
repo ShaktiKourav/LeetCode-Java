@@ -1,49 +1,58 @@
 class Solution {
-
     public int[] searchRange(int[] nums, int target) {
-        int first = findFirst(nums, target);
-        int last = findLast(nums, target);
+        int n = nums.length;
+        int left_most = findLeftMost(nums,target,n);
+        int Right_most = findRightMost(nums,target,n);
 
-        return new int[]{first, last};
+        return new int[]{left_most,Right_most};
+
     }
 
-    private int findFirst(int[] nums, int target) {
-        int low = 0, high = nums.length - 1;
-        int ans = -1;
 
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
+    int findLeftMost(int[] nums,int target,int n){
+        int l = 0;
+        int r = n-1;
+        int left_most = -1;
 
-            if (nums[mid] == target) {
-                ans = mid;
-                high = mid - 1; // Search left
-            } else if (nums[mid] < target) {
-                low = mid + 1;
-            } else {
-                high = mid - 1;
-            }
+        while(l<=r){
+
+        int mid = l+(r-l)/2;
+        if(nums[mid] == target){
+           
+        left_most = mid;
+        r = mid-1;
+        }else if(nums[mid] < target){
+            l = mid+1;
+        }else{
+            r = mid-1;
+        }
         }
 
-        return ans;
+        return left_most;
     }
 
-    private int findLast(int[] nums, int target) {
-        int low = 0, high = nums.length - 1;
-        int ans = -1;
+    int findRightMost(int[] nums,int target,int n){
+        int l = 0;
+        int r = n-1;
+        int right_most = -1;
 
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
+        while(l<=r){
 
-            if (nums[mid] == target) {
-                ans = mid;
-                low = mid + 1; // Search right
-            } else if (nums[mid] < target) {
-                low = mid + 1;
-            } else {
-                high = mid - 1;
-            }
+        int mid = l+(r-l)/2;
+        if(nums[mid] == target){
+           
+        right_most = mid;
+        l = mid+1;
+        }else if(nums[mid] < target){
+            l = mid+1;
+        }else{
+            r = mid-1;
         }
-
-        return ans;
     }
+        return right_most;
+    
+    }
+
+
+   
 }
