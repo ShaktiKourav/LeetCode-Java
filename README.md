@@ -173,6 +173,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0101-symmetric-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0112-path-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -289,6 +290,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -445,6 +447,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -462,6 +465,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0501-find-mode-in-binary-search-tree) |
