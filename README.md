@@ -74,6 +74,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0171-excel-sheet-column-number) |
 | [0415-add-strings](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0504-base-7) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -208,6 +209,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0069-sqrtx](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0292-nim-game) |
