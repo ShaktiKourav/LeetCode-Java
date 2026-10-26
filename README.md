@@ -72,6 +72,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0014-longest-common-prefix](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0125-valid-palindrome) |
 | [0415-add-strings](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0504-base-7) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -313,6 +314,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0141-linked-list-cycle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
