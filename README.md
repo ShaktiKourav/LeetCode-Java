@@ -228,6 +228,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0866-prime-palindrome](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0989-add-to-array-form-of-integer) |
+| [1137-n-th-tribonacci-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -333,6 +334,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0509-fibonacci-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1137-n-th-tribonacci-number) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -360,6 +362,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | ------- |
 | [0070-climbing-stairs](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1137-n-th-tribonacci-number) |
 ## Interactive
 |  |
 | ------- |
