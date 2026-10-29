@@ -209,6 +209,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0168-excel-sheet-column-title) |
@@ -330,6 +331,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0213-house-robber-ii) |
@@ -510,4 +512,8 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0703-kth-largest-element-in-a-stream) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
