@@ -101,6 +101,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0041-first-missing-positive) |
+| [0064-minimum-path-sum](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0162-find-peak-element) |
@@ -201,6 +202,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0064-minimum-path-sum) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -332,6 +334,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0213-house-robber-ii) |
