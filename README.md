@@ -124,6 +124,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [1046-last-stone-weight](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1207-unique-number-of-occurrences) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -204,6 +205,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | ------- |
 | [0064-minimum-path-sum](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0064-minimum-path-sum) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Math
@@ -342,6 +344,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0746-min-cost-climbing-stairs](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1137-n-th-tribonacci-number) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
