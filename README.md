@@ -101,6 +101,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0041-first-missing-positive) |
+| [0063-unique-paths-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -203,6 +204,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0064-minimum-path-sum) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -336,6 +338,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0198-house-robber) |
