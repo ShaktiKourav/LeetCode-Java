@@ -183,6 +183,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0112-path-sum) |
+| [0279-perfect-squares](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0279-perfect-squares) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -222,6 +223,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0171-excel-sheet-column-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0326-power-of-three) |
@@ -343,6 +345,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0070-climbing-stairs](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0877-stone-game) |
@@ -525,4 +528,12 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
