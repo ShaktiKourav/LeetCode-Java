@@ -113,6 +113,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0217-contains-duplicate](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0628-maximum-product-of-three-numbers) |
@@ -184,6 +185,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0112-path-sum) |
 | [0279-perfect-squares](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -346,6 +348,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0198-house-robber](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0877-stone-game) |
@@ -532,8 +535,10 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
