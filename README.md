@@ -340,6 +340,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0160-intersection-of-two-linked-lists](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0876-middle-of-the-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Dynamic Programming
@@ -433,6 +434,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0203-remove-linked-list-elements](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0876-middle-of-the-linked-list) |
 ## Zero-Sum Game
 |  |
 | ------- |
