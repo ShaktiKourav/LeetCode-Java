@@ -34,7 +34,7 @@ public class Solution {
         return headA;
     }
 
-    public int getListLength(ListNode head){
+    private int getListLength(ListNode head){
         ListNode temp = head;
         int count = 0;
 
