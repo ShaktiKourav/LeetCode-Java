@@ -242,6 +242,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0877-stone-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1137-n-th-tribonacci-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -435,6 +436,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0206-reverse-linked-list](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Zero-Sum Game
 |  |
 | ------- |
