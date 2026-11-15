@@ -64,6 +64,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3483-unique-3-digit-even-numbers) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3731-find-missing-elements) |
 ## String
@@ -143,6 +144,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3483-unique-3-digit-even-numbers) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3731-find-missing-elements](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3731-find-missing-elements) |
@@ -205,6 +207,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Matrix
 |  |
 | ------- |
@@ -401,6 +404,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | ------- |
 | [0415-add-strings](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0415-add-strings) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Game Theory
 |  |
 | ------- |
@@ -437,6 +441,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0234-palindrome-linked-list](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -552,4 +557,12 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | ------- |
 | [0279-perfect-squares](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0322-coin-change) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
