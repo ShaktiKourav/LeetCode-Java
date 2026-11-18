@@ -81,6 +81,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0345-reverse-vowels-of-a-string](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0504-base-7) |
+| [0541-reverse-string-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0541-reverse-string-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -350,6 +351,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0344-reverse-string](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0541-reverse-string-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0876-middle-of-the-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3940-limit-occurrences-in-sorted-array) |
