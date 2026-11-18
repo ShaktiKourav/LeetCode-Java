@@ -141,6 +141,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [1552-magnetic-force-between-two-balls](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1552-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2562-find-the-array-concatenation-value](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2562-find-the-array-concatenation-value) |
 | [2574-left-and-right-sum-differences](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -353,6 +354,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0876-middle-of-the-linked-list) |
+| [2562-find-the-array-concatenation-value](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2562-find-the-array-concatenation-value) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Dynamic Programming
@@ -412,6 +414,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | ------- |
 | [0415-add-strings](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0415-add-strings) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [2562-find-the-array-concatenation-value](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2562-find-the-array-concatenation-value) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Game Theory
 |  |
