@@ -110,6 +110,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0041-first-missing-positive](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0162-find-peak-element) |
@@ -296,6 +297,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0268-missing-number) |
@@ -347,6 +349,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0141-linked-list-cycle) |
@@ -584,4 +587,12 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
