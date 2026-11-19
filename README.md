@@ -79,6 +79,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0171-excel-sheet-column-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0541-reverse-string-ii) |
@@ -352,6 +353,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0344-reverse-string](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0876-middle-of-the-linked-list) |
 | [2562-find-the-array-concatenation-value](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2562-find-the-array-concatenation-value) |
@@ -368,6 +370,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0213-house-robber-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0877-stone-game) |
