@@ -122,6 +122,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0217-contains-duplicate](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0540-single-element-in-a-sorted-array) |
@@ -176,6 +177,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0162-find-peak-element](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0374-guess-number-higher-or-lower) |
@@ -281,6 +283,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0342-power-of-four) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [4030-check-ascii-palindromic](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/4030-check-ascii-palindromic) |
@@ -358,6 +361,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0141-linked-list-cycle](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -552,6 +556,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
 | ------- |
@@ -599,4 +604,8 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0075-sort-colors) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
