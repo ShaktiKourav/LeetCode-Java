@@ -85,6 +85,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0415-add-strings](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0541-reverse-string-ii) |
+| [0696-count-binary-substrings](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0696-count-binary-substrings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -374,6 +375,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0541-reverse-string-ii) |
+| [0696-count-binary-substrings](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0876-middle-of-the-linked-list) |
 | [2562-find-the-array-concatenation-value](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/2562-find-the-array-concatenation-value) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
