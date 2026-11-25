@@ -58,6 +58,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0219-contains-duplicate-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0389-find-the-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1207-unique-number-of-occurrences) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1331-rank-transform-of-an-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1331-rank-transform-of-an-array) |
@@ -79,6 +80,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0171-excel-sheet-column-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0504-base-7) |
@@ -287,6 +289,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0268-missing-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0389-find-the-difference) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [4030-check-ascii-palindromic](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/4030-check-ascii-palindromic) |
 ## Graph Theory
@@ -308,6 +311,7 @@ Solutions are uploaded automatically using **LeetHub V2** after successful submi
 | [0217-contains-duplicate](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ShaktiKourav/LeetCode-Java/tree/master/1331-rank-transform-of-an-array) |
